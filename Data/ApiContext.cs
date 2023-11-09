@@ -1,5 +1,4 @@
-﻿using eict_api.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace eict_api.Data
 {
