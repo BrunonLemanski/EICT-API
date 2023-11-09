@@ -3,6 +3,6 @@
     public class PackageTypePackageEntity
     {
         private PackageTypeEntity type { get; set; }
-        private Package package { get; set; }
+        private PackageEntity package { get; set; }
     }
 }
